@@ -3,7 +3,7 @@
 - 👀 I’m interested in Data Science, Data Analysis, Business Intellegence, Machine Learning, and many other topics
 - 🌱 I’m currently learning Phyton, and other Data science essential skills
 - 💞️ I’m looking to collaborate on any challenging real case data project
-- 💻 I can use SQL, R, and Tableau
+- 💻 I can use SQL, R, and Tableau (https://public.tableau.com/app/profile/muthia.salsabila)
 - 📫 Reach me at https://www.linkedin.com/in/muthiasalsabila/ or email me at muthiasalsabila7.MS@gmail.com
 
 <!---
