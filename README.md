@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @muthiasalsabila
-- 📖 I'm an undergraduate Economics student
+- 📖 I'm an Economics Researcher 
 - 👀 I’m interested in Data Science, Data Analysis, Business Intellegence, Machine Learning, and many other topics
 - 🌱 I’m currently learning Phyton, and other Data science essential skills
 - 💞️ I’m looking to collaborate on any challenging real case data project
